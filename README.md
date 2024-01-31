@@ -1,3 +1,3 @@
 # index
-my first repository.<br/>
-Author - Ankit
+this is my first repository.<br/>
+Author - Ankit pandey
